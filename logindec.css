@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0ch;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif;
+     columns: #333333;
+}
+body{
+    background-image: url(https://media.gettyimages.com/videos/loopable-color-gradient-background-animation-video-id1182636595?s=640x640);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 2000px 1000px;
+    min-height: 300px;
+    padding: 7.5px 15px;
+}
+footer{
+    background-color: #cccccc;
+    min-height: 70px;
+    padding: 15px;
+}
+.container{
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 200px;
+}
+.login-form{
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 15px;
+    border: 2px dotted #cccccc;
+    border-radius: 10px;
+}
+.login-form h1{
+    color:#3E8CE6;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.Name h1{
+    color: #ffffff;
+    font-size: 25px;
+}
+.input-box{
+    margin-bottom: 10px;
+}
+.input-box input{
+    padding: 7.5px 15px;
+    width: 90%;
+    border: 1px solid #cccccc;
+    outline: none;
+}
+.btn-box{
+    text-align: right;
+    margin-top: 30px;
+}
+.btn-box button{
+    cursor: pointer;
+    padding: 7.5px 15px;
+    border-radius: 2px;
+    background-image: url(https://media.gettyimages.com/videos/loopable-color-gradient-background-animation-video-id1182636595?s=640x640);
+    color: #ffffff;
+    border: none;
+    outline: none;
+}
+.btn-box button :hover{
+    color: aqua;
+    text-decoration: none;
+}
